@@ -33,4 +33,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: xamarin-ios-artifact
-          path: BrickController2/BrickController2.iOS/bin/iPhone/Debug/BrickController2.iOS.ipa
+          path: BrickController2/BrickController2.iOS/bin/iPhone/Debug/*
