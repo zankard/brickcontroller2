@@ -28,7 +28,7 @@
                         <Label Text="BrickController 2" FontSize="Medium" FontAttributes="Bold"/>
 
                         <StackLayout Orientation="Horizontal">
-                            <Label Text="{extensions:Translate Version}  "/>
+                            <Label Text="{extensions:Translate Version}"/>
                             <Label Text="{Binding Version}"/>
                         </StackLayout>
 
